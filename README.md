@@ -1,2 +1,1 @@
-# game-json
-Just game json for bot whatsapp
+# Hi/Hai/Hy/Hello/Hallo/Hola
